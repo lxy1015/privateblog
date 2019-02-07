@@ -1,2 +1,2 @@
 # privateblog
-itsmyfirstprivateblog
+its my first private blog
